@@ -1,0 +1,6 @@
+super + w
+	firefox
+alt + i
+	pamixer -i 5
+alt + d
+	pamixer -d 5
